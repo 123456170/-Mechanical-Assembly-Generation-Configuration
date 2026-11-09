@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+plotly
+trimesh
+matplotlib
+imageio
+imageio-ffmpeg
+
+# Optional native STEP export via OpenCASCADE/CadQuery.
+# Install separately on Windows if desired:
+# pip install cadquery
